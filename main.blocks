@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ZIpF7vK%/JnRkBA2xO{4" x="0" y="0"></block><block type="device_forever" id="Md#tP}?cd3ftWS8``spT" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="T~BcpP@oJ}9JXIAtv:xy" x="285" y="237"><statement name="HANDLER"><block type="basic_show_icon" id="jE3?B8VT?Fo$UU7#1W?X"><field name="i">IconNames.SmallHeart</field><next><block type="device_rest" id="Sgckb@kt.F=Z`YN3mo9]"><value name="duration"><shadow type="device_beat" id="!]qxCxKL)]nSfQQ`U:-Z"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="basic_show_icon" id="tI(cO8e0ne?R#BJS{_c6"><field name="i">IconNames.Heart</field><next><block type="device_rest" id="[2dQuI0mphPt0FcP3dGS"><value name="duration"><shadow type="device_beat" id="Ua$CH~}qQ*QcQ`YqS7*A"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="device_clear_display" id="WwBDoGb`]:v-=QQ@$/An" disabled="true" x="883" y="305"><next><block type="device_pause" id="DM|;PYi:=`moyFpw!`f*" disabled="true"><value name="pause"><shadow type="timePicker" id="Sbng];[@HN4A7_3Mfi~u" disabled="true"><field name="ms">500</field></shadow></value></block></next></block><block type="device_show_leds" id="OZfG.;:_#Yz9lp5gzX2#" disabled="true" x="330" y="689"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></xml>
